@@ -13,7 +13,7 @@ This is a repository for a data science assignment conducted by the Startup Moto
     6. Recursively create derivative branches if new hypotheses encountered.
     7. Draw and compile conclusions from the first level of derivative branches.
     8. Repeat steps e. to g. for lower level of derivative branches.
-    9. Condense conclusions from all level of derivative branches.
+    9. Condense conclusions from all levels of derivative branches.
     10. Create a new file with only the EDA required for the drawn conclusions.
 
 ## Information on the Assignment:
