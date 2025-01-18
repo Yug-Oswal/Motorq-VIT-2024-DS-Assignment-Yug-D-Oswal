@@ -5,16 +5,16 @@ This is a repository for a data science assignment conducted by the Startup Moto
 1. The file "Motorq-ProblemStatement.ipynb" contains the entire condensed code of my solution to the problem statement.
 2. The entire project was done within the span of 5-8 hours.
 3. The file contains how I usually handle any Data Science tasks:
-  1. Basic EDA on the data procured
-  2. Data Cleaning, Pre-processing, and Scaling (if required). Scaling data is done with care to ensure that the distribution of the original data is maintained.
-  3. Advanced EDA
-  4. Posing Hypotheses related to the Insights we need to collect
-  5. Derivative Branches created for EDA to test hypotheses
-  6. Recursively create derivative branches if new hypotheses encountered.
-  7. Draw and compile conclusions from the first level of derivative branches.
-  8. Repeat steps e. to g. for lower level of derivative branches.
-  9. Condense conclusions from all level of derivative branches.
-  10. Create a new file with only the EDA required for the drawn conclusions.
+    1. Basic EDA on the data procured
+    2. Data Cleaning, Pre-processing, and Scaling (if required). Scaling data is done with care to ensure that the distribution of the original data is maintained.
+    3. Advanced EDA
+    4. Posing Hypotheses related to the Insights we need to collect
+    5. Derivative Branches created for EDA to test hypotheses
+    6. Recursively create derivative branches if new hypotheses encountered.
+    7. Draw and compile conclusions from the first level of derivative branches.
+    8. Repeat steps e. to g. for lower level of derivative branches.
+    9. Condense conclusions from all level of derivative branches.
+    10. Create a new file with only the EDA required for the drawn conclusions.
 
 ## Information on the Assignment:
 We are given multiple telemetry csvs, recording data of motor vehicles over a period of time. 
@@ -37,11 +37,11 @@ Dataset Description: The dataset consists of 3 tables- Telemetry 1, Telemetry 2,
 
 ### Requirements:
 1. Data Preprocessing
-  1. Convert the Telemetry 1 and Telemetry 2 tables into one common format
-  2. Combine the two tables into one Telemetry table
-  3. Ensure that corresponding telemetry messages in both tables are combined into one message to avoid redundancy
-  4. Explore this dataset and share at most 3 takeaways from this dataset.
+    1. Convert the Telemetry 1 and Telemetry 2 tables into one common format
+    2. Combine the two tables into one Telemetry table
+    3. Ensure that corresponding telemetry messages in both tables are combined into one message to avoid redundancy
+    4. Explore this dataset and share at most 3 takeaways from this dataset.
 2. Calculate Fuel Economy
-  1. Using the telemetry data from the combined table, calculate the Fuel Economy for each vehicle
-  2. Please refer to Fuel Economy for an introduction
-  3. Discuss your findings and approach taken to calculate this metric with us for follow-ups
+    1. Using the telemetry data from the combined table, calculate the Fuel Economy for each vehicle
+    2. Please refer to Fuel Economy for an introduction
+    3. Discuss your findings and approach taken to calculate this metric with us for follow-ups
