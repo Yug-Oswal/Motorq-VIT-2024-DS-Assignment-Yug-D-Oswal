@@ -1,5 +1,5 @@
 # MotorQ Data Science Assignment
-This is a repository for a data science assignment conducted by the Startup MotorQ. 
+This is a repository for a data science project conducted by Motorq. 
 
 ## Project:  
 1. The file "Motorq-ProblemStatement.ipynb" contains the entire condensed code of my solution to the problem statement.
