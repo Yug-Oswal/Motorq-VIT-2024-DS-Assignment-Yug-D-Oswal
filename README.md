@@ -1,4 +1,4 @@
-# MotorQ Data Science Assignment
+# Motorq Data Science Project
 This is a repository for a data science project conducted by Motorq. 
 
 ## Project:  
